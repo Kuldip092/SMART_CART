@@ -1,18 +1,9 @@
-Sure, here's an enhanced version of the README with colorful design elements:
+Sure, here's an enhanced version of the README with colourful design elements:
 
 ```markdown
 # SmartCart - Supermarket Companion 🛒
 
-```
-██████╗  █████╗ ███╗   ██╗███████╗     ██████╗ █████╗ ███╗   ██╗
-██╔══██╗██╔══██╗████╗  ██║██╔════╝    ██╔════╝██╔══██╗████╗  ██║
-██║  ██║███████║██╔██╗ ██║███████╗    ██║     ███████║██╔██╗ ██║
-██║  ██║██╔══██║██║╚██╗██║╚════██║    ██║     ██╔══██║██║╚██╗██║
-██████╔╝██║  ██║██║ ╚████║███████║    ╚██████╗██║  ██║██║ ╚████║
-╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝     ╚═════╝╚═╝  ╚═╝╚═╝  ╚═══╝
-```
-
-SmartCart is a colorful and interactive supermarket management system written in C++. It allows users to add, delete, update, and display products, as well as create a receipt for customer purchases. The code uses a text file to store product information.
+SmartCart is a colourful and interactive supermarket management system written in C++. It allows users to add, delete, update, and display products and create a receipt for customer purchases. The code uses a text file to store product information.
 
 ## 🌟 Features
 
@@ -67,4 +58,4 @@ You can acknowledge any libraries, resources, or people who contributed to your 
 
 ```
 
-Feel free to customize the design and colors as you like. You can also replace `[Your Name]` and `[License Name]` with the appropriate information.
+Feel free to customize the design and colours as you like. You can also replace `[Your Name]` and `[License Name]` with the appropriate information.
